@@ -12,7 +12,14 @@
 - **Phase 2 (W2-PM5):** Ping scan and topology of my own local network (10.60.174.0/24) using Zenmap.
 
 ## Evidence
-Screenshots are in the [`evidence/`](evidence/) folder.
+Screenshots are in this repository:
+- [fig1_whois.png](fig1_whois.png): WHOIS lookup
+- [fig2_whatweb_nslookup.png](fig2_whatweb_nslookup.png): WhatWeb and nslookup
+- [fig3_curl_wafw00f.png](fig3_curl_wafw00f.png): curl headers and wafw00f
+- [fig4_dnsrecon.png](fig4_dnsrecon.png): DNSRecon
+- [fig5_zenmap_ping.png](fig5_zenmap_ping.png): Zenmap ping scan
+- [fig6_topology.png](fig6_topology.png): Zenmap topology
+
 
 ## Disclaimer
 Activities were performed only on systems where I had written permission or that I own. For education and research purposes only.
